@@ -20,6 +20,7 @@ $ docker run -t -i osuosl/whats_fresh:v1 /bin/bash
 
 TODO
 ----
-[ ]: Put the app under a supervisor/init system
-[ ]: Have the app talk to a Postgres server container
-[ ]: Get docker on the workstations (ticket submitted)
+
+- [ ] Put the app under a supervisor/init system
+- [ ] Have the app talk to a Postgres server container
+- [ ] Get docker on the workstations (ticket submitted)
